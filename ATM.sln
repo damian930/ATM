@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ATM", "ATM.vcxproj", "{4336AEF5-4576-44BA-B097-7FEC476A7A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4336AEF5-4576-44BA-B097-7FEC476A7A9B}.Debug|x64.ActiveCfg = Debug|x64
+		{4336AEF5-4576-44BA-B097-7FEC476A7A9B}.Debug|x64.Build.0 = Debug|x64
+		{4336AEF5-4576-44BA-B097-7FEC476A7A9B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4336AEF5-4576-44BA-B097-7FEC476A7A9B}.Debug|x86.Build.0 = Debug|Win32
+		{4336AEF5-4576-44BA-B097-7FEC476A7A9B}.Release|x64.ActiveCfg = Release|x64
+		{4336AEF5-4576-44BA-B097-7FEC476A7A9B}.Release|x64.Build.0 = Release|x64
+		{4336AEF5-4576-44BA-B097-7FEC476A7A9B}.Release|x86.ActiveCfg = Release|Win32
+		{4336AEF5-4576-44BA-B097-7FEC476A7A9B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F785DC0-DC1D-449E-BEE1-060E1B1452E7}
+	EndGlobalSection
+EndGlobal
